@@ -10,4 +10,4 @@ public class MovieApiDevelopmentApplication {
 		SpringApplication.run(MovieApiDevelopmentApplication.class, args);
 	}
 
-}
+}//yuxarida sabiaydin yazilib onlar ferqine varcaq ? bilmirem ki gel sene repo acim ora push edim belke ad deyiser bidene gir oz githubuna
